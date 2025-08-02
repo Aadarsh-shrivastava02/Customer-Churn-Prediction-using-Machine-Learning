@@ -1,10 +1,12 @@
 # Customer-Churn-Prediction-using-Machine-Learning
 This project aims to predict whether a customer will churn (leave the service) using historical data from a bank. By applying machine learning techniques, we build a classification model that identifies at-risk customers, helping businesses take proactive steps to retain them.
 
-Problem Statement
+Problem Statement:
+
 Customer churn is a critical issue for subscription-based businesses like banks, telecoms, and SaaS companies. Losing existing customers impacts revenue more than acquiring new ones. The goal is to create a predictive model based on customer attributes (such as credit score, geography, account balance, tenure, etc.) to identify those likely to churn.
 
-What This Project Covers
+What This Project Covers:
+
 Data cleaning and preprocessing
 Exploratory Data Analysis (EDA)
 Feature selection and engineering
